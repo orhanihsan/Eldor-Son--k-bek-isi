@@ -1,2 +1,2 @@
-# Eldor-Son-k-bek-isi
+# Eldor-Son-ışık-bekçisi
 Eğlenceli hikayeli oyun
